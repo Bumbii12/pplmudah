@@ -45,7 +45,7 @@
         
         </tbody>
     </table>
-
+{{-- anjay mabar --}}
     <a href="{{ route('jadwal.create') }}" class="btn btn-primary mt-3">Tambah Jadwal</a>
 </div>
 @endsection
